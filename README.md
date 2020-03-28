@@ -1,0 +1,2 @@
+# hackerearth
+Practice problems solutions
